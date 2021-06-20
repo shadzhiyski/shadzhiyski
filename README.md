@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Stoyan Hadzhiyski
 
+![Last Update](https://img.shields.io/github/last-commit/stoian2662/stoian2662?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat)
+
 - 🔭 I’m currently working on personal projects and apps
 - 🌱 I’m currently learning BDD, TDD and Microservices
 
