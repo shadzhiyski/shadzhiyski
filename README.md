@@ -1,15 +1,15 @@
 ### Hi there 👋, I'm Stoyan Hadzhiyski
 
-![Last Update](https://img.shields.io/github/last-commit/stoian2662/stoian2662?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat)
+![Last Update](https://img.shields.io/github/last-commit/shadzhiyski/shadzhiyski?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat)
 
 - 🔭 I’m currently working on personal projects and apps
 - 🌱 I’m currently learning BDD, TDD and Microservices
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stoian2662&theme=vue-dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shadzhiyski&theme=vue-dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=stoian2662&show_icons=true&theme=vue-dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=shadzhiyski&show_icons=true&theme=vue-dark&hide_border=true)
 
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stoian2662&layout=compact&theme=vue-dark&hide_border=true)
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadzhiyski&layout=compact&theme=vue-dark&hide_border=true)
 
 ## 👨‍💻 Tech Stack & Tools
 
@@ -39,7 +39,7 @@
 ![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 
 <!--
-**stoian2662/stoian2662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shadzhiyski/shadzhiyski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
